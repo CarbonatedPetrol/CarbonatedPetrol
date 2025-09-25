@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hello World 🫡
 
-## Test
+## I am currently a first year student at Leeds Beckett University, this page will contain most, if not all, of the programs I develop for my course as well as some of my personal projects; thus most of my programs will be created using python.
+
+## I have performed work experience in two places as of September 2025, a local cyber security provider company called Nasstar where I learnt about how services are provided to third party companies as well as how they are maintained. I then also worked in the data science sector of the NHS in Leeds (NHS England); here I learnt about countless different sectors in data science as well as how to utilise, research and train AI. I have also produced a report that has been taken up officially by someone in the NHS.
 
 <!--
 **CarbonatedPetrol/CarbonatedPetrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
